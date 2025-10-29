@@ -6,7 +6,7 @@
 
 <style>
 
-  HeaderIntro{
+  HeaderIntro {
   color: blue;
   }
   
