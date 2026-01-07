@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div class="HeaderIntro">
-  <h1>Soy Gustavo Puebla</h1>
-  <h2>aka - Bloochis</h2>
+  <h1>Soy Bloo</h1>
+  
 </div>
 
 <style>
